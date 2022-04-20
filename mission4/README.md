@@ -1,4 +1,4 @@
-# mission4
+# mission 4
 
 * 애니메이션의 활용!
 
