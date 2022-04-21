@@ -1,0 +1,66 @@
+
+.title{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 20px;
+    width: 90%;
+    font-size: 30px;
+    font-weight: 600;
+}
+.book{
+    padding: 20px 0px;
+    width: 90%;
+    display: flex;
+    justify-content: flex-start;
+}
+#book_1_image{
+    width: 140px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.description{
+
+}
+.description h1{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.description span{
+    opacity: 0.3;
+}
+
+
+.About{
+    margin: 30px 0px;
+}
+.About input{
+    height: 30px;
+    width: 100px;
+    margin-right: 10px;
+    border: none;
+    background-color: beige;
+    border-radius: 10px;
+}
+
+.Buy{
+    display: flex;
+}
+.Buy__bookmark_icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: var(--yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin-right: 40px;
+}
+.Buy input{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 140px;
+    border-radius: 10px;
+}

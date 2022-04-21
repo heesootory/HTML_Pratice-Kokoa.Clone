@@ -1,0 +1,21 @@
+.authors{
+    width: 90%;
+    display: flex;
+    margin-top: 20px;
+}
+.grandfather{
+    width: 150px;
+    height: 200px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+.authors_description h1{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.authors_description p{
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 0.2;
+}

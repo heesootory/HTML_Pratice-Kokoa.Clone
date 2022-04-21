@@ -1,0 +1,20 @@
+.adventure{
+    display: flex;
+    width: 90%;
+    overflow-x: hidden;
+    margin-top: 20px;
+}
+.books{
+    width: 100px;
+    height: 150px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.adventure_books{
+    display: flex;
+    flex-direction: column;
+}
+.adventure_books .stars{
+    font-size: 10px;
+    margin-left: 15px;
+}
